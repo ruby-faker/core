@@ -1,0 +1,6 @@
+ruby_version: 2.3
+ignore:
+  - lib/faker-core.rb:
+    - Naming/FileName
+  - test/test_types.rb:
+    - Lint/UnifiedInteger
